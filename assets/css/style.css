@@ -29,10 +29,12 @@ ul {
 
 .header{
     background-color: orange;
-    width: 50%;
+	width: 50%;
+	color: white;
 }
 .instructions{ background-color: bisque;
 	width: 50%;
+	color: green;
 }
 
 .numberToMatch{
