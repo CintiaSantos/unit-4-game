@@ -1,0 +1,67 @@
+
+body{
+	background-image: url("../images/background.png")
+}
+div{
+	background-color: white;
+	margin: 10px;
+	width: 25%
+}
+div{
+	border: solid 2px antiquewhite;
+	padding: 10px;
+}
+span{
+	font-weight: bold;
+	text-align: center;
+}
+h1{
+	font-size: 30pt;
+}
+ol{
+	list-style: decimal inside; 
+}
+ul {
+	list-style: disc inside;
+	text-indent: 20px;
+	color: green;
+}
+
+.header{
+    background-color: orange;
+    width: 50%;
+}
+.instructions{ background-color: bisque;
+	width: 50%;
+}
+
+.numberToMatch{
+	float: left;
+	width: 15%;
+    height: 60px;
+    background-color: #00aa59;
+}
+.winsAndLosses{
+	float: left;
+	width: 15%;
+    height: 60px;
+	background-color: aqua;
+	
+}
+ 
+
+div.score {
+	background-color: teal;
+}
+.userTotal{
+	width: 15%;
+	height: 60px;
+	background-color: teal
+}
+.gems{
+	clear: both;
+}
+.gemImage{
+	height: 60px;
+	margin: 10px;
+}
